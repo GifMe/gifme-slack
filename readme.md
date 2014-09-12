@@ -12,4 +12,4 @@ You can now hookup slack and GifMe to search the api and get a gif back!
 
 Now go to slack and type #gifme [some term] and it will return a gif with your search!
 
-<img src='https://gifme.io/assets/gifme_slack.jpg' width='100%'/>
+<img src='http://gifme.io/assets/gifme_slack.jpg' width='100%'/>
